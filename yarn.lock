@@ -1870,9 +1870,9 @@ normalize-path@^2.1.1:
   dependencies:
     remove-trailing-separator "^1.0.1"
 
-now@9.3.3:
-  version "9.3.3"
-  resolved "https://registry.yarnpkg.com/now/-/now-9.3.3.tgz#356184b822c429c0efc725a23b69aad1b9257dbb"
+now@13.1.2:
+  version "13.1.2"
+  resolved "https://registry.yarnpkg.com/now/-/now-13.1.2.tgz#dda24eb622edeedc43e694d31d9c81f2154896c4"
 
 npm-bundled@^1.0.1:
   version "1.0.5"
